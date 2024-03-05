@@ -1,0 +1,69 @@
+body{
+    font-family: Arial;
+}
+.baner1{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 55%;
+    font-size: 120%;
+}
+.baner{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 25%;
+}
+.baner2{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 20%;
+    text-align: right;
+}
+.stopka1{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 55%;
+    font-size: 120%;
+}
+.stopka{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 25%;
+}
+.stopka2{
+    background-color: saddlebrown;
+    color: white;
+    height: 100px;
+    width: 20%;
+    text-align: right;
+}
+#banery{
+    display: flex;
+}
+.glowny{
+    display: flex;
+    flex-direction: column;
+}
+#konstopki{
+    display: flex;
+}
+.glowny{
+    background-color: snow;
+    padding: 70px;
+}
+a{
+    border-style: dotted;
+    border-width: 2px;
+    border-color: saddlebrown;
+    background-color: snow;
+    color: saddlebrown;
+    padding: 20px;
+    line-height: 100px;
+}
+ol{
+    list-style-type: lower-alpha;
+}
